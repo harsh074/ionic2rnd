@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+platforms/
+plugins/
+resources/
+hooks/
+symbolTable.json
